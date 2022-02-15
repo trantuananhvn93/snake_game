@@ -1,5 +1,5 @@
 # Snake AI - A* search algorithm
-The project applies the **A* search algorithm** to solve the shortest path problem in the **Snake game**.
+The project applies the `A* search algorithm` to solve the shortest path problem in the **Snake game**.
 ## Demo
 ![snake game](./snake.gif) 
 ## Dependencies 
