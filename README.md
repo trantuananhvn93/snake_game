@@ -13,4 +13,4 @@ The project applies the `A* search algorithm` to solve the shortest path problem
 ## Build Instructions
   - Create a `snake` project in visual studio 
   - Install SDL2 
-  - Copy all file in `scr` into the project.
+  - Copy all files in `scr` into the project.
