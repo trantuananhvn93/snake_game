@@ -11,6 +11,6 @@ The project applies the `A* search algorithm` to solve the shortest path problem
   * Mac: same deal as make - [install Xcode command line tools](https://developer.apple.com/xcode/features/)
   * Windows: recommend using [MinGW](http://www.mingw.org/)
 ## Build Instructions
-  - Create a `snake` project in visual studio 
-  - Install SDL2 
-  - Copy all files in `scr` into the project.
+  - Creating a `snake` project in visual studio 
+  - Installing SDL2 
+  - Copying all files in `scr` into the project.
